@@ -65,7 +65,7 @@ const Article = () => {
     };
 
     return (
-        <div className="bg-white rounded-xl shadow-md p-4 w-full max-w-6xl mx-auto mt-2 md:mt-8">
+        <div className="bg-white rounded-xl shadow-md p-4 w-full max-w-6xl mx-auto mt-3 md:mt-8">
             {/* Tabs */}
             <div className="flex flex-wrap border-b bg-white">
                 <button className="flex items-center gap-2 px-4 py-2 text-blue-800 font-semibold border-b-2 border-blue-800">
