@@ -5,9 +5,9 @@ const Navbar = () => {
     return (
         <>
 
-            <nav className="  sticky top-0 ">
+            <nav className=" sticky top-0 ">
                 {/* Full-width background with centered content */}
-                <div className=" bg-[#F0F9FF]   flex justify-between md:justify-around items-center px-6 py-3 mt-2">
+                <div className=" bg-[#F0F9FF]   flex justify-between md:justify-around items-center px-6 py-3 ">
 
                     {/* Logo */}
                     <img src={indi} alt="Indigo Logo" className="h-6 md:h-8 bg-[#F0F9FF] " />
