@@ -1,5 +1,5 @@
 import { FaChevronDown } from 'react-icons/fa';
-import indi from '../assets/images/Indigo.avif';
+import indi from '../assets/images/IndiGo.avif';
 
 const Navbar = () => {
     return (
